@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/free-icon-book-9193009.png</file>
+    <file>icon/free-icon-chevron-248744.png</file>
+    <file>icon/free-icon-clock-2902894.png</file>
+    <file>icon/free-icon-coin-550650.png</file>
+    <file>icon/free-icon-file-sharing-10004135.png</file>
+    <file>icon/free-icon-magnifier-3593144.png</file>
+    <file>icon/free-icon-social-media-9351311.png</file>
+    <file>icon/info.png</file>
+    <file>icon/Logo.png</file>
+    <file>icon/person.png</file>
+  </qresource>
+</RCC>

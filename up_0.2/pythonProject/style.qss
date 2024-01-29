@@ -1,0 +1,105 @@
+    #MainWindow {
+        background-color: #2E5377;
+    }
+
+    #openMenuBtn {
+        padding: 5px;
+        border: none;
+        width: 30px;
+        height: 30 px;
+    }
+
+    #openMenuBtn:hover {
+        background-color: #6B94CB;
+        border-radius: 10px;
+    }
+
+    #header_widget {
+        background-color: #f9fafd;
+    }
+
+    #icon {
+        background-color: #3E5F8A;
+        width: 50px;
+    }
+
+    #icon QPushButton, QLabel {
+        height: 50px;
+        border-radius: 10px;
+
+    }
+
+    #icon QPushButton:hover {
+        background-color: #6B94CB;
+    }
+
+    #icon QPushButton:checked {
+        background-color: #1C3248;
+    }
+
+    #icon {
+        background-color: #3E5F8A;
+        width: 50px;
+    }
+
+    #label {
+        padding: 5px
+    }
+
+    #fullMenu {
+        background-color: #3E5F8A;
+    }
+
+    #fullMenu QPushButton {
+        border: none;
+        border-radius: 10px;
+        text-align: left;
+        font-size: 15px;
+        font: Montserrat;
+        padding: 8px 0 8px 15px;
+        color: #fff;
+        margin-top: 12px;
+    }
+
+    #fullMenu QPushButton:hover {
+        background-color: #6B94CB;
+    }
+
+    #fullMenu QPushButton:checked {
+        background-color: #1C3248;
+    }
+
+    #label_2 {
+        padding: 5px;
+        color #fff;
+    }
+
+    #label_3 {
+        padding-right: 10px;
+        color: #fff;
+        font: Montserrat;
+        font-weight: bold;
+    }
+
+    #SearchBtn {
+        border: none;
+        width: 30px;
+        height: 30px;
+    }
+
+    #SearchBtn:hover {
+        background-color: #6B94CB;
+        border-radius: 10px;
+
+    }
+
+    #SearchEdit {
+        background-color :#7BA0DB;
+        border-radius: 10px;
+        padding: 5px 10px;
+    }
+
+
+    #openMenuBtn {
+        border: none;
+    }
